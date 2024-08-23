@@ -28,11 +28,14 @@ This project implements an image captioning model utilizing CNN and Transformer 
     - Once the model is trained, the results, metrics, and the trained model itself are logged using MLFlow and DagsHub for efficient tracking and management of model development.
 
 
-
 ## Output Examples
 
-<img width="430" alt="Screenshot 2024-08-22 at 11 16 17 PM" src="https://github.com/user-attachments/assets/884e0fb1-d958-4f81-9c1a-8dfaf7ca85b5">
-<img width="480" alt="Screenshot 2024-08-22 at 11 16 30 PM" src="https://github.com/user-attachments/assets/7fc76b3b-eefa-4470-b5fa-1a72aaba853c">
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/884e0fb1-d958-4f81-9c1a-8dfaf7ca85b5" width="45%" height="100%" />
+  <img src="https://github.com/user-attachments/assets/7fc76b3b-eefa-4470-b5fa-1a72aaba853c" width="45%" height="250%" />
+</p>
+
+
 
 ## MLFlow Experiment Tracking
 
